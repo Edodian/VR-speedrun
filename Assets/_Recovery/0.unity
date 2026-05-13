@@ -21680,10 +21680,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects:
-    - targetCorrespondingSourceObject: {fileID: 1767192434, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1480753364}
+    m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 1717954561962503725, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
       insertIndex: -1
@@ -67455,7 +67452,7 @@ RectTransform:
   - {fileID: 537883770}
   - {fileID: 769076402}
   - {fileID: 1471077615}
-  m_Father: {fileID: 1818468159}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -96674,6 +96671,7 @@ SceneRoots:
   - {fileID: 538905529}
   - {fileID: 1279427927}
   - {fileID: 1826659191}
+  - {fileID: 1480753364}
   - {fileID: 1821453546}
   - {fileID: 1739913843}
   - {fileID: 1893772537}
