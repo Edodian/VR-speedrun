@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc985a152699d6049ab671803ee8d934
+timeCreated: 1471441278
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 69723
+  packageName: Steampunk Chest
+  packageVersion: 1.0
+  assetPath: Assets/sity/itens/chest/pref/chest_blue.prefab
+  uploadId: 132829

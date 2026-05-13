@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1924205b407c45240bb9b532a65bfbe6
+timeCreated: 1471434717
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 69723
+  packageName: Steampunk Chest
+  packageVersion: 1.0
+  assetPath: Assets/sity/itens/chest/bauScript.cs
+  uploadId: 132829
